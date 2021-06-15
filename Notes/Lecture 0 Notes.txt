@@ -1,0 +1,27 @@
+Conceptually Object come first but in terms of programmatically class comes first thats why OOPS
+
+What is an object?
+Informally an object represent an entity that can be either physical,conceptual, software or anything else.
+Formally an object is an enitity with a well define boundary and identity that has state and behaviour
+
+State is represented by attribute or variable, behaviour is represented by operation and methods
+(Behaviour may or may not change the state of an object)
+
+Not every object have state and behaviour
+
+A class is description of set of objects that share the same attribute,operations,relationship and 
+cementing.
+
+Singleton Class: We restrict to create only one object of a class.
+
+Wrapper Class: In Java we have corresponding class to all primitive data type.
+Task 1: Auto Boxing and unboxing
+
+
+Javac is an executable which take one or more java files and convert it to .class files
+java command is an executable which launch JVM and loads the class along with the JAVA RE libraries
+
+//in , out,err -Stream errorStream-err
+
+Assignment 1: Write a program using Scanner Class to input firstName, lastName and age and display the same, 
+Assignment 2 and 3: PPT Page 50,51 
